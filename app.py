@@ -30,11 +30,16 @@ filtered = df[df.player.isin(players_)]
 filtered = filtered[filtered[x_label].between(*x_range)]
 
 def line_chart():
+    selector = alt.selection_single()
+
     return alt.Chart(filtered).mark_line().encode(
         x=x_label,
         y = alt.Y('rating', scale = alt.Scale(domain=(1700,2900))),
         color='player',
-        tooltip='player'
+        tooltip='player',
+        opacity=alt.condition(selector, alt.value(1.0), alt.value(0.2))
+    ).add_selection(
+        selector
     ).interactive()
 
 st.altair_chart(line_chart(), use_container_width=True)
