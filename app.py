@@ -2,48 +2,59 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
-st.title('Rating Progression')
+st.title('Top Juniors Rating Progress')
 
-df = pd.read_csv("final.csv", index_col=0)
+@st.cache
+def load_data():
+    games = pd.read_csv("games.csv")
+    months = pd.read_csv("months.csv")
+    players = list(games.player.unique())
+    return games, months, players
+
+games, months, players = load_data()
 
 with st.sidebar:
-    min_months = int(df.index[0])
-    max_months = int(df.index[-1])
-    months = st.slider("Age Range (Months)", min_months, max_months, (120, 240))
-
-    players = list(df.columns)
     players_ = st.multiselect("Players", players, players)
+    x = st.radio("X axis", ["Games", "Months"])
+    if x == "Games":
+        df = games
+        x_label = "total_games"
+    elif x == "Months":
+        df = months
+        x_label = "months"
+    x_min = int(df[x_label].min())
+    x_max = int(df[x_label].max())
+    x_range = st.slider(x, x_min, x_max, (x_min, x_max))
 
-filtered = df.loc[months[0]:months[1], players_]
+filtered = df[df.player.isin(players_)]
+filtered = filtered[filtered[x_label].between(*x_range)]
 
-data = filtered.reset_index().melt('months')
-data.columns = ['Age (Months)', 'Player', 'Rating']
+def line_chart():
+    return alt.Chart(filtered).mark_line().encode(
+        x=x_label,
+        y = alt.Y('rating', scale = alt.Scale(domain=(1700,2900))),
+        color='player',
+        tooltip='player'
+    ).interactive()
 
-c = alt.Chart(data).mark_line().encode(
-    x='Age (Months)',
-    y = alt.Y('Rating', scale = alt.Scale(domain=(1700,2900))),
-    color='Player',
-    tooltip='Player',
-).interactive()
-
-st.altair_chart(c, use_container_width=True)
-
-def get_gain(player, df):
-    pdf = df[player].dropna()
-    gain = pdf.iloc[-1] - pdf.iloc[0]
-    return gain
-
-def make_bar_chart(df):
-    gains = [get_gain(p, df) for p in players_]
-    source = pd.DataFrame({
-        'Player': players_,
-        'Rating Gain': gains
-    })
-    c = alt.Chart(source).mark_bar().encode(
-        x='Player',
-        y='Rating Gain'
-    )
-    return c
-
-bar = make_bar_chart(filtered)
-st.altair_chart(bar, use_container_width=True)
+st.altair_chart(line_chart(), use_container_width=True)
+#
+# def get_gain(player, df):
+#     pdf = df[player].dropna()
+#     gain = pdf.iloc[-1] - pdf.iloc[0]
+#     return gain
+#
+# def make_bar_chart(df):
+#     gains = [get_gain(p, df) for p in players_]
+#     source = pd.DataFrame({
+#         'Player': players_,
+#         'Rating Gain': gains
+#     })
+#     c = alt.Chart(source).mark_bar().encode(
+#         x='Player',
+#         y='Rating Gain'
+#     )
+#     return c
+#
+# bar = make_bar_chart(filtered)
+# st.altair_chart(bar, use_container_width=True)

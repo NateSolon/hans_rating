@@ -1,0 +1,772 @@
+total_games,variable,rating,player
+10,standard,1756,"Firouzja, Alireza"
+13,standard,1750,"Firouzja, Alireza"
+18,standard,1734,"Firouzja, Alireza"
+35,standard,1884,"Firouzja, Alireza"
+44,standard,1924,"Firouzja, Alireza"
+52,standard,1911,"Firouzja, Alireza"
+59,standard,1913,"Firouzja, Alireza"
+67,standard,1948,"Firouzja, Alireza"
+75,standard,1946,"Firouzja, Alireza"
+84,standard,1954,"Firouzja, Alireza"
+110,standard,2045,"Firouzja, Alireza"
+123,standard,2079,"Firouzja, Alireza"
+141,standard,2107,"Firouzja, Alireza"
+151,standard,2188,"Firouzja, Alireza"
+159,standard,2238,"Firouzja, Alireza"
+176,standard,2332,"Firouzja, Alireza"
+192,standard,2291,"Firouzja, Alireza"
+203,standard,2305,"Firouzja, Alireza"
+212,standard,2312,"Firouzja, Alireza"
+235,standard,2278,"Firouzja, Alireza"
+248,standard,2277,"Firouzja, Alireza"
+257,standard,2309,"Firouzja, Alireza"
+266,standard,2323,"Firouzja, Alireza"
+278,standard,2364,"Firouzja, Alireza"
+287,standard,2386,"Firouzja, Alireza"
+298,standard,2372,"Firouzja, Alireza"
+320,standard,2455,"Firouzja, Alireza"
+331,standard,2475,"Firouzja, Alireza"
+336,standard,2475,"Firouzja, Alireza"
+344,standard,2468,"Firouzja, Alireza"
+351,standard,2485,"Firouzja, Alireza"
+360,standard,2481,"Firouzja, Alireza"
+382,standard,2464,"Firouzja, Alireza"
+387,standard,2463,"Firouzja, Alireza"
+395,standard,2469,"Firouzja, Alireza"
+407,standard,2474,"Firouzja, Alireza"
+419,standard,2456,"Firouzja, Alireza"
+428,standard,2465,"Firouzja, Alireza"
+431,standard,2470,"Firouzja, Alireza"
+451,standard,2492,"Firouzja, Alireza"
+459,standard,2487,"Firouzja, Alireza"
+468,standard,2499,"Firouzja, Alireza"
+474,standard,2517,"Firouzja, Alireza"
+483,standard,2527,"Firouzja, Alireza"
+496,standard,2525,"Firouzja, Alireza"
+502,standard,2521,"Firouzja, Alireza"
+511,standard,2509,"Firouzja, Alireza"
+534,standard,2549,"Firouzja, Alireza"
+543,standard,2558,"Firouzja, Alireza"
+563,standard,2572,"Firouzja, Alireza"
+572,standard,2570,"Firouzja, Alireza"
+581,standard,2561,"Firouzja, Alireza"
+597,standard,2582,"Firouzja, Alireza"
+617,standard,2600,"Firouzja, Alireza"
+628,standard,2607,"Firouzja, Alireza"
+638,standard,2607,"Firouzja, Alireza"
+656,standard,2618,"Firouzja, Alireza"
+684,standard,2657,"Firouzja, Alireza"
+702,standard,2669,"Firouzja, Alireza"
+728,standard,2682,"Firouzja, Alireza"
+737,standard,2685,"Firouzja, Alireza"
+750,standard,2702,"Firouzja, Alireza"
+761,standard,2720,"Firouzja, Alireza"
+762,standard,2723,"Firouzja, Alireza"
+775,standard,2726,"Firouzja, Alireza"
+784,standard,2728,"Firouzja, Alireza"
+794,standard,2749,"Firouzja, Alireza"
+807,standard,2759,"Firouzja, Alireza"
+809,standard,2754,"Firouzja, Alireza"
+819,standard,2770,"Firouzja, Alireza"
+839,standard,2804,"Firouzja, Alireza"
+848,standard,2793,"Firouzja, Alireza"
+862,standard,2778,"Firouzja, Alireza"
+870,standard,2785,"Firouzja, Alireza"
+14,standard,1291,Gukesh D
+16,standard,1305,Gukesh D
+17,standard,1303,Gukesh D
+18,standard,1297,Gukesh D
+24,standard,1256,Gukesh D
+33,standard,1253,Gukesh D
+49,standard,1278,Gukesh D
+56,standard,1280,Gukesh D
+70,standard,1475,Gukesh D
+98,standard,1661,Gukesh D
+104,standard,1616,Gukesh D
+126,standard,1600,Gukesh D
+145,standard,1701,Gukesh D
+153,standard,1735,Gukesh D
+162,standard,1752,Gukesh D
+171,standard,1772,Gukesh D
+183,standard,1801,Gukesh D
+194,standard,1764,Gukesh D
+211,standard,1765,Gukesh D
+229,standard,1801,Gukesh D
+238,standard,1869,Gukesh D
+264,standard,1949,Gukesh D
+282,standard,2041,Gukesh D
+300,standard,2062,Gukesh D
+317,standard,2095,Gukesh D
+325,standard,2061,Gukesh D
+343,standard,2056,Gukesh D
+363,standard,2092,Gukesh D
+374,standard,1974,Gukesh D
+391,standard,2032,Gukesh D
+409,standard,2175,Gukesh D
+418,standard,2252,Gukesh D
+437,standard,2236,Gukesh D
+475,standard,2184,Gukesh D
+484,standard,2260,Gukesh D
+500,standard,2283,Gukesh D
+527,standard,2332,Gukesh D
+551,standard,2365,Gukesh D
+577,standard,2335,Gukesh D
+586,standard,2323,Gukesh D
+595,standard,2362,Gukesh D
+616,standard,2354,Gukesh D
+644,standard,2320,Gukesh D
+653,standard,2360,Gukesh D
+671,standard,2401,Gukesh D
+689,standard,2426,Gukesh D
+698,standard,2431,Gukesh D
+725,standard,2433,Gukesh D
+743,standard,2440,Gukesh D
+761,standard,2453,Gukesh D
+789,standard,2456,Gukesh D
+808,standard,2457,Gukesh D
+819,standard,2466,Gukesh D
+838,standard,2497,Gukesh D
+866,standard,2508,Gukesh D
+876,standard,2529,Gukesh D
+894,standard,2536,Gukesh D
+921,standard,2533,Gukesh D
+929,standard,2543,Gukesh D
+947,standard,2520,Gukesh D
+963,standard,2528,Gukesh D
+981,standard,2535,Gukesh D
+988,standard,2520,Gukesh D
+999,standard,2544,Gukesh D
+1008,standard,2547,Gukesh D
+1026,standard,2542,Gukesh D
+1054,standard,2563,Gukesh D
+1064,standard,2578,Gukesh D
+1095,standard,2599,Gukesh D
+1130,standard,2640,Gukesh D
+1157,standard,2621,Gukesh D
+1168,standard,2614,Gukesh D
+1200,standard,2637,Gukesh D
+1225,standard,2659,Gukesh D
+1235,standard,2675,Gukesh D
+1244,standard,2684,Gukesh D
+1260,standard,2699,Gukesh D
+1281,standard,2726,Gukesh D
+1288,standard,2732,Gukesh D
+11,standard,1584,Erigaisi Arjun
+17,standard,1571,Erigaisi Arjun
+27,standard,1557,Erigaisi Arjun
+32,standard,1528,Erigaisi Arjun
+60,standard,1548,Erigaisi Arjun
+82,standard,1650,Erigaisi Arjun
+89,standard,1669,Erigaisi Arjun
+119,standard,1684,Erigaisi Arjun
+129,standard,1731,Erigaisi Arjun
+149,standard,1734,Erigaisi Arjun
+160,standard,1739,Erigaisi Arjun
+163,standard,1740,Erigaisi Arjun
+171,standard,1753,Erigaisi Arjun
+179,standard,1780,Erigaisi Arjun
+190,standard,1792,Erigaisi Arjun
+226,standard,1811,Erigaisi Arjun
+237,standard,1818,Erigaisi Arjun
+246,standard,1839,Erigaisi Arjun
+262,standard,1814,Erigaisi Arjun
+268,standard,1803,Erigaisi Arjun
+277,standard,1785,Erigaisi Arjun
+304,standard,1814,Erigaisi Arjun
+324,standard,1857,Erigaisi Arjun
+345,standard,1907,Erigaisi Arjun
+361,standard,1914,Erigaisi Arjun
+378,standard,1968,Erigaisi Arjun
+389,standard,1968,Erigaisi Arjun
+397,standard,2024,Erigaisi Arjun
+406,standard,2080,Erigaisi Arjun
+415,standard,2120,Erigaisi Arjun
+434,standard,2146,Erigaisi Arjun
+443,standard,2132,Erigaisi Arjun
+464,standard,2167,Erigaisi Arjun
+475,standard,2127,Erigaisi Arjun
+495,standard,2173,Erigaisi Arjun
+503,standard,2238,Erigaisi Arjun
+523,standard,2379,Erigaisi Arjun
+531,standard,2350,Erigaisi Arjun
+540,standard,2351,Erigaisi Arjun
+560,standard,2337,Erigaisi Arjun
+584,standard,2307,Erigaisi Arjun
+601,standard,2300,Erigaisi Arjun
+612,standard,2309,Erigaisi Arjun
+622,standard,2270,Erigaisi Arjun
+651,standard,2300,Erigaisi Arjun
+660,standard,2338,Erigaisi Arjun
+670,standard,2324,Erigaisi Arjun
+686,standard,2342,Erigaisi Arjun
+699,standard,2328,Erigaisi Arjun
+710,standard,2354,Erigaisi Arjun
+721,standard,2365,Erigaisi Arjun
+732,standard,2359,Erigaisi Arjun
+760,standard,2386,Erigaisi Arjun
+789,standard,2458,Erigaisi Arjun
+807,standard,2481,Erigaisi Arjun
+824,standard,2488,Erigaisi Arjun
+833,standard,2505,Erigaisi Arjun
+843,standard,2499,Erigaisi Arjun
+870,standard,2517,Erigaisi Arjun
+888,standard,2531,Erigaisi Arjun
+897,standard,2548,Erigaisi Arjun
+917,standard,2526,Erigaisi Arjun
+926,standard,2531,Erigaisi Arjun
+951,standard,2535,Erigaisi Arjun
+960,standard,2544,Erigaisi Arjun
+979,standard,2575,Erigaisi Arjun
+997,standard,2563,Erigaisi Arjun
+1015,standard,2559,Erigaisi Arjun
+1025,standard,2567,Erigaisi Arjun
+1051,standard,2597,Erigaisi Arjun
+1078,standard,2626,Erigaisi Arjun
+1096,standard,2634,Erigaisi Arjun
+1123,standard,2627,Erigaisi Arjun
+1134,standard,2629,Erigaisi Arjun
+1143,standard,2632,Erigaisi Arjun
+1153,standard,2633,Erigaisi Arjun
+1166,standard,2660,Erigaisi Arjun
+1197,standard,2675,Erigaisi Arjun
+1213,standard,2675,Erigaisi Arjun
+1220,standard,2681,Erigaisi Arjun
+1240,standard,2689,Erigaisi Arjun
+1260,standard,2725,Erigaisi Arjun
+1268,standard,2728,Erigaisi Arjun
+13,standard,1930,"Abdusattorov, Nodirbek"
+23,standard,1907,"Abdusattorov, Nodirbek"
+32,standard,1937,"Abdusattorov, Nodirbek"
+47,standard,1949,"Abdusattorov, Nodirbek"
+54,standard,1950,"Abdusattorov, Nodirbek"
+62,standard,1915,"Abdusattorov, Nodirbek"
+66,standard,1915,"Abdusattorov, Nodirbek"
+74,standard,1935,"Abdusattorov, Nodirbek"
+82,standard,1967,"Abdusattorov, Nodirbek"
+98,standard,1954,"Abdusattorov, Nodirbek"
+109,standard,2024,"Abdusattorov, Nodirbek"
+120,standard,2057,"Abdusattorov, Nodirbek"
+137,standard,2108,"Abdusattorov, Nodirbek"
+146,standard,2128,"Abdusattorov, Nodirbek"
+173,standard,2179,"Abdusattorov, Nodirbek"
+182,standard,2186,"Abdusattorov, Nodirbek"
+191,standard,2193,"Abdusattorov, Nodirbek"
+199,standard,2263,"Abdusattorov, Nodirbek"
+217,standard,2465,"Abdusattorov, Nodirbek"
+229,standard,2443,"Abdusattorov, Nodirbek"
+238,standard,2432,"Abdusattorov, Nodirbek"
+247,standard,2436,"Abdusattorov, Nodirbek"
+258,standard,2429,"Abdusattorov, Nodirbek"
+267,standard,2430,"Abdusattorov, Nodirbek"
+287,standard,2391,"Abdusattorov, Nodirbek"
+296,standard,2382,"Abdusattorov, Nodirbek"
+305,standard,2375,"Abdusattorov, Nodirbek"
+314,standard,2395,"Abdusattorov, Nodirbek"
+323,standard,2428,"Abdusattorov, Nodirbek"
+332,standard,2429,"Abdusattorov, Nodirbek"
+341,standard,2437,"Abdusattorov, Nodirbek"
+359,standard,2453,"Abdusattorov, Nodirbek"
+368,standard,2462,"Abdusattorov, Nodirbek"
+377,standard,2467,"Abdusattorov, Nodirbek"
+381,standard,2470,"Abdusattorov, Nodirbek"
+399,standard,2486,"Abdusattorov, Nodirbek"
+408,standard,2498,"Abdusattorov, Nodirbek"
+417,standard,2516,"Abdusattorov, Nodirbek"
+426,standard,2518,"Abdusattorov, Nodirbek"
+444,standard,2540,"Abdusattorov, Nodirbek"
+453,standard,2550,"Abdusattorov, Nodirbek"
+465,standard,2534,"Abdusattorov, Nodirbek"
+474,standard,2539,"Abdusattorov, Nodirbek"
+492,standard,2558,"Abdusattorov, Nodirbek"
+502,standard,2560,"Abdusattorov, Nodirbek"
+513,standard,2546,"Abdusattorov, Nodirbek"
+531,standard,2560,"Abdusattorov, Nodirbek"
+540,standard,2578,"Abdusattorov, Nodirbek"
+558,standard,2597,"Abdusattorov, Nodirbek"
+567,standard,2598,"Abdusattorov, Nodirbek"
+579,standard,2594,"Abdusattorov, Nodirbek"
+595,standard,2608,"Abdusattorov, Nodirbek"
+617,standard,2633,"Abdusattorov, Nodirbek"
+635,standard,2635,"Abdusattorov, Nodirbek"
+648,standard,2644,"Abdusattorov, Nodirbek"
+657,standard,2627,"Abdusattorov, Nodirbek"
+678,standard,2634,"Abdusattorov, Nodirbek"
+693,standard,2648,"Abdusattorov, Nodirbek"
+702,standard,2646,"Abdusattorov, Nodirbek"
+723,standard,2633,"Abdusattorov, Nodirbek"
+732,standard,2641,"Abdusattorov, Nodirbek"
+742,standard,2651,"Abdusattorov, Nodirbek"
+751,standard,2661,"Abdusattorov, Nodirbek"
+769,standard,2688,"Abdusattorov, Nodirbek"
+776,standard,2677,"Abdusattorov, Nodirbek"
+798,standard,2713,"Abdusattorov, Nodirbek"
+12,standard,1721,"Keymer, Vincent"
+13,standard,1720,"Keymer, Vincent"
+20,standard,1793,"Keymer, Vincent"
+21,standard,1789,"Keymer, Vincent"
+28,standard,1861,"Keymer, Vincent"
+38,standard,1911,"Keymer, Vincent"
+44,standard,1933,"Keymer, Vincent"
+61,standard,1955,"Keymer, Vincent"
+70,standard,1970,"Keymer, Vincent"
+80,standard,2014,"Keymer, Vincent"
+89,standard,2036,"Keymer, Vincent"
+95,standard,2092,"Keymer, Vincent"
+113,standard,2116,"Keymer, Vincent"
+122,standard,2176,"Keymer, Vincent"
+129,standard,2214,"Keymer, Vincent"
+138,standard,2365,"Keymer, Vincent"
+147,standard,2338,"Keymer, Vincent"
+156,standard,2352,"Keymer, Vincent"
+163,standard,2352,"Keymer, Vincent"
+175,standard,2356,"Keymer, Vincent"
+176,standard,2347,"Keymer, Vincent"
+184,standard,2342,"Keymer, Vincent"
+196,standard,2324,"Keymer, Vincent"
+206,standard,2353,"Keymer, Vincent"
+215,standard,2368,"Keymer, Vincent"
+221,standard,2350,"Keymer, Vincent"
+230,standard,2352,"Keymer, Vincent"
+239,standard,2294,"Keymer, Vincent"
+246,standard,2341,"Keymer, Vincent"
+253,standard,2348,"Keymer, Vincent"
+262,standard,2402,"Keymer, Vincent"
+281,standard,2419,"Keymer, Vincent"
+289,standard,2415,"Keymer, Vincent"
+300,standard,2428,"Keymer, Vincent"
+309,standard,2420,"Keymer, Vincent"
+319,standard,2401,"Keymer, Vincent"
+320,standard,2400,"Keymer, Vincent"
+330,standard,2409,"Keymer, Vincent"
+331,standard,2411,"Keymer, Vincent"
+340,standard,2432,"Keymer, Vincent"
+352,standard,2419,"Keymer, Vincent"
+361,standard,2413,"Keymer, Vincent"
+363,standard,2405,"Keymer, Vincent"
+374,standard,2405,"Keymer, Vincent"
+376,standard,2408,"Keymer, Vincent"
+385,standard,2418,"Keymer, Vincent"
+397,standard,2403,"Keymer, Vincent"
+408,standard,2443,"Keymer, Vincent"
+418,standard,2466,"Keymer, Vincent"
+435,standard,2493,"Keymer, Vincent"
+445,standard,2491,"Keymer, Vincent"
+454,standard,2502,"Keymer, Vincent"
+458,standard,2508,"Keymer, Vincent"
+468,standard,2500,"Keymer, Vincent"
+481,standard,2505,"Keymer, Vincent"
+482,standard,2509,"Keymer, Vincent"
+496,standard,2516,"Keymer, Vincent"
+498,standard,2521,"Keymer, Vincent"
+507,standard,2522,"Keymer, Vincent"
+514,standard,2513,"Keymer, Vincent"
+532,standard,2506,"Keymer, Vincent"
+543,standard,2518,"Keymer, Vincent"
+545,standard,2520,"Keymer, Vincent"
+547,standard,2527,"Keymer, Vincent"
+569,standard,2557,"Keymer, Vincent"
+572,standard,2558,"Keymer, Vincent"
+579,standard,2568,"Keymer, Vincent"
+586,standard,2588,"Keymer, Vincent"
+587,standard,2591,"Keymer, Vincent"
+598,standard,2602,"Keymer, Vincent"
+605,standard,2607,"Keymer, Vincent"
+616,standard,2630,"Keymer, Vincent"
+623,standard,2639,"Keymer, Vincent"
+642,standard,2664,"Keymer, Vincent"
+648,standard,2655,"Keymer, Vincent"
+650,standard,2654,"Keymer, Vincent"
+656,standard,2667,"Keymer, Vincent"
+666,standard,2675,"Keymer, Vincent"
+675,standard,2686,"Keymer, Vincent"
+685,standard,2672,"Keymer, Vincent"
+702,standard,2693,"Keymer, Vincent"
+711,standard,2700,"Keymer, Vincent"
+12,standard,1982,"Niemann, Hans Moke"
+15,standard,1973,"Niemann, Hans Moke"
+21,standard,1987,"Niemann, Hans Moke"
+35,standard,1991,"Niemann, Hans Moke"
+46,standard,1995,"Niemann, Hans Moke"
+49,standard,1985,"Niemann, Hans Moke"
+58,standard,2000,"Niemann, Hans Moke"
+73,standard,1867,"Niemann, Hans Moke"
+76,standard,1894,"Niemann, Hans Moke"
+96,standard,2192,"Niemann, Hans Moke"
+111,standard,2280,"Niemann, Hans Moke"
+114,standard,2238,"Niemann, Hans Moke"
+125,standard,2170,"Niemann, Hans Moke"
+134,standard,2166,"Niemann, Hans Moke"
+145,standard,2176,"Niemann, Hans Moke"
+158,standard,2197,"Niemann, Hans Moke"
+179,standard,2142,"Niemann, Hans Moke"
+207,standard,2114,"Niemann, Hans Moke"
+216,standard,2046,"Niemann, Hans Moke"
+227,standard,2154,"Niemann, Hans Moke"
+241,standard,2278,"Niemann, Hans Moke"
+250,standard,2320,"Niemann, Hans Moke"
+264,standard,2325,"Niemann, Hans Moke"
+273,standard,2342,"Niemann, Hans Moke"
+277,standard,2298,"Niemann, Hans Moke"
+304,standard,2269,"Niemann, Hans Moke"
+322,standard,2298,"Niemann, Hans Moke"
+349,standard,2288,"Niemann, Hans Moke"
+366,standard,2273,"Niemann, Hans Moke"
+375,standard,2277,"Niemann, Hans Moke"
+383,standard,2281,"Niemann, Hans Moke"
+392,standard,2282,"Niemann, Hans Moke"
+401,standard,2293,"Niemann, Hans Moke"
+426,standard,2254,"Niemann, Hans Moke"
+464,standard,2255,"Niemann, Hans Moke"
+468,standard,2273,"Niemann, Hans Moke"
+471,standard,2297,"Niemann, Hans Moke"
+480,standard,2348,"Niemann, Hans Moke"
+488,standard,2314,"Niemann, Hans Moke"
+497,standard,2302,"Niemann, Hans Moke"
+506,standard,2313,"Niemann, Hans Moke"
+524,standard,2329,"Niemann, Hans Moke"
+556,standard,2418,"Niemann, Hans Moke"
+565,standard,2439,"Niemann, Hans Moke"
+574,standard,2449,"Niemann, Hans Moke"
+583,standard,2466,"Niemann, Hans Moke"
+587,standard,2477,"Niemann, Hans Moke"
+597,standard,2460,"Niemann, Hans Moke"
+604,standard,2467,"Niemann, Hans Moke"
+629,standard,2423,"Niemann, Hans Moke"
+638,standard,2439,"Niemann, Hans Moke"
+649,standard,2436,"Niemann, Hans Moke"
+669,standard,2471,"Niemann, Hans Moke"
+673,standard,2465,"Niemann, Hans Moke"
+682,standard,2459,"Niemann, Hans Moke"
+696,standard,2465,"Niemann, Hans Moke"
+714,standard,2472,"Niemann, Hans Moke"
+719,standard,2478,"Niemann, Hans Moke"
+726,standard,2484,"Niemann, Hans Moke"
+754,standard,2525,"Niemann, Hans Moke"
+790,standard,2526,"Niemann, Hans Moke"
+824,standard,2508,"Niemann, Hans Moke"
+853,standard,2546,"Niemann, Hans Moke"
+862,standard,2567,"Niemann, Hans Moke"
+880,standard,2571,"Niemann, Hans Moke"
+907,standard,2606,"Niemann, Hans Moke"
+919,standard,2609,"Niemann, Hans Moke"
+948,standard,2638,"Niemann, Hans Moke"
+957,standard,2635,"Niemann, Hans Moke"
+978,standard,2645,"Niemann, Hans Moke"
+996,standard,2642,"Niemann, Hans Moke"
+1005,standard,2637,"Niemann, Hans Moke"
+1023,standard,2656,"Niemann, Hans Moke"
+1032,standard,2678,"Niemann, Hans Moke"
+1059,standard,2688,"Niemann, Hans Moke"
+1064,standard,2687,"Niemann, Hans Moke"
+1069,standard,2688,"Niemann, Hans Moke"
+1078,standard,2699,"Niemann, Hans Moke"
+20,standard,1346,Praggnanandhaa R
+25,standard,1356,Praggnanandhaa R
+28,standard,1340,Praggnanandhaa R
+34,standard,1378,Praggnanandhaa R
+53,standard,1478,Praggnanandhaa R
+72,standard,1538,Praggnanandhaa R
+73,standard,1536,Praggnanandhaa R
+92,standard,1607,Praggnanandhaa R
+126,standard,1761,Praggnanandhaa R
+136,standard,1777,Praggnanandhaa R
+145,standard,1769,Praggnanandhaa R
+175,standard,1807,Praggnanandhaa R
+177,standard,1813,Praggnanandhaa R
+196,standard,1819,Praggnanandhaa R
+216,standard,1825,Praggnanandhaa R
+226,standard,1840,Praggnanandhaa R
+247,standard,1852,Praggnanandhaa R
+265,standard,1938,Praggnanandhaa R
+275,standard,1974,Praggnanandhaa R
+289,standard,1989,Praggnanandhaa R
+305,standard,1969,Praggnanandhaa R
+314,standard,1979,Praggnanandhaa R
+332,standard,1948,Praggnanandhaa R
+363,standard,1836,Praggnanandhaa R
+373,standard,1946,Praggnanandhaa R
+386,standard,2104,Praggnanandhaa R
+395,standard,2084,Praggnanandhaa R
+415,standard,2203,Praggnanandhaa R
+422,standard,2200,Praggnanandhaa R
+431,standard,2220,Praggnanandhaa R
+440,standard,2225,Praggnanandhaa R
+451,standard,2103,Praggnanandhaa R
+471,standard,2129,Praggnanandhaa R
+491,standard,2104,Praggnanandhaa R
+513,standard,2077,Praggnanandhaa R
+524,standard,2085,Praggnanandhaa R
+545,standard,2177,Praggnanandhaa R
+573,standard,2301,Praggnanandhaa R
+591,standard,2339,Praggnanandhaa R
+600,standard,2376,Praggnanandhaa R
+609,standard,2368,Praggnanandhaa R
+628,standard,2429,Praggnanandhaa R
+650,standard,2442,Praggnanandhaa R
+670,standard,2452,Praggnanandhaa R
+678,standard,2437,Praggnanandhaa R
+696,standard,2455,Praggnanandhaa R
+705,standard,2447,Praggnanandhaa R
+732,standard,2471,Praggnanandhaa R
+741,standard,2467,Praggnanandhaa R
+750,standard,2479,Praggnanandhaa R
+754,standard,2487,Praggnanandhaa R
+763,standard,2500,Praggnanandhaa R
+773,standard,2503,Praggnanandhaa R
+782,standard,2509,Praggnanandhaa R
+802,standard,2517,Praggnanandhaa R
+820,standard,2515,Praggnanandhaa R
+838,standard,2507,Praggnanandhaa R
+848,standard,2507,Praggnanandhaa R
+866,standard,2520,Praggnanandhaa R
+875,standard,2529,Praggnanandhaa R
+893,standard,2529,Praggnanandhaa R
+902,standard,2532,Praggnanandhaa R
+911,standard,2519,Praggnanandhaa R
+920,standard,2530,Praggnanandhaa R
+930,standard,2539,Praggnanandhaa R
+943,standard,2532,Praggnanandhaa R
+961,standard,2537,Praggnanandhaa R
+970,standard,2536,Praggnanandhaa R
+978,standard,2537,Praggnanandhaa R
+987,standard,2540,Praggnanandhaa R
+997,standard,2569,Praggnanandhaa R
+1006,standard,2567,Praggnanandhaa R
+1028,standard,2586,Praggnanandhaa R
+1047,standard,2602,Praggnanandhaa R
+1065,standard,2608,Praggnanandhaa R
+1091,standard,2617,Praggnanandhaa R
+1096,standard,2618,Praggnanandhaa R
+1114,standard,2610,Praggnanandhaa R
+1125,standard,2612,Praggnanandhaa R
+1137,standard,2619,Praggnanandhaa R
+1146,standard,2624,Praggnanandhaa R
+1164,standard,2642,Praggnanandhaa R
+1173,standard,2648,Praggnanandhaa R
+1182,standard,2661,Praggnanandhaa R
+1191,standard,2676,Praggnanandhaa R
+1200,standard,2687,Praggnanandhaa R
+9,standard,1268,Nihal Sarin
+12,standard,1299,Nihal Sarin
+17,standard,1312,Nihal Sarin
+22,standard,1341,Nihal Sarin
+28,standard,1371,Nihal Sarin
+37,standard,1484,Nihal Sarin
+46,standard,1580,Nihal Sarin
+59,standard,1663,Nihal Sarin
+67,standard,1725,Nihal Sarin
+78,standard,1729,Nihal Sarin
+89,standard,1744,Nihal Sarin
+94,standard,1737,Nihal Sarin
+102,standard,1797,Nihal Sarin
+112,standard,1787,Nihal Sarin
+121,standard,1800,Nihal Sarin
+142,standard,2018,Nihal Sarin
+152,standard,2076,Nihal Sarin
+165,standard,2110,Nihal Sarin
+175,standard,2038,Nihal Sarin
+184,standard,2096,Nihal Sarin
+194,standard,2249,Nihal Sarin
+214,standard,2260,Nihal Sarin
+245,standard,2096,Nihal Sarin
+256,standard,2217,Nihal Sarin
+266,standard,2259,Nihal Sarin
+275,standard,2351,Nihal Sarin
+284,standard,2349,Nihal Sarin
+293,standard,2364,Nihal Sarin
+311,standard,2358,Nihal Sarin
+324,standard,2324,Nihal Sarin
+335,standard,2340,Nihal Sarin
+353,standard,2386,Nihal Sarin
+362,standard,2424,Nihal Sarin
+389,standard,2454,Nihal Sarin
+398,standard,2471,Nihal Sarin
+416,standard,2485,Nihal Sarin
+425,standard,2483,Nihal Sarin
+434,standard,2487,Nihal Sarin
+452,standard,2507,Nihal Sarin
+468,standard,2524,Nihal Sarin
+477,standard,2532,Nihal Sarin
+487,standard,2534,Nihal Sarin
+505,standard,2551,Nihal Sarin
+514,standard,2551,Nihal Sarin
+532,standard,2556,Nihal Sarin
+553,standard,2572,Nihal Sarin
+562,standard,2576,Nihal Sarin
+572,standard,2578,Nihal Sarin
+581,standard,2589,Nihal Sarin
+590,standard,2598,Nihal Sarin
+608,standard,2606,Nihal Sarin
+617,standard,2610,Nihal Sarin
+630,standard,2610,Nihal Sarin
+645,standard,2612,Nihal Sarin
+655,standard,2618,Nihal Sarin
+668,standard,2620,Nihal Sarin
+686,standard,2655,Nihal Sarin
+708,standard,2652,Nihal Sarin
+722,standard,2650,Nihal Sarin
+733,standard,2662,Nihal Sarin
+743,standard,2656,Nihal Sarin
+752,standard,2652,Nihal Sarin
+770,standard,2648,Nihal Sarin
+786,standard,2646,Nihal Sarin
+788,standard,2654,Nihal Sarin
+813,standard,2651,Nihal Sarin
+832,standard,2677,Nihal Sarin
+839,standard,2673,Nihal Sarin
+20,standard,2114,"Esipenko, Andrey"
+27,standard,2100,"Esipenko, Andrey"
+35,standard,2139,"Esipenko, Andrey"
+47,standard,2139,"Esipenko, Andrey"
+55,standard,2116,"Esipenko, Andrey"
+71,standard,2120,"Esipenko, Andrey"
+82,standard,2095,"Esipenko, Andrey"
+99,standard,2144,"Esipenko, Andrey"
+108,standard,2191,"Esipenko, Andrey"
+117,standard,2188,"Esipenko, Andrey"
+126,standard,2203,"Esipenko, Andrey"
+135,standard,2226,"Esipenko, Andrey"
+144,standard,2252,"Esipenko, Andrey"
+151,standard,2248,"Esipenko, Andrey"
+160,standard,2254,"Esipenko, Andrey"
+169,standard,2287,"Esipenko, Andrey"
+189,standard,2289,"Esipenko, Andrey"
+198,standard,2288,"Esipenko, Andrey"
+213,standard,2316,"Esipenko, Andrey"
+233,standard,2282,"Esipenko, Andrey"
+241,standard,2286,"Esipenko, Andrey"
+259,standard,2311,"Esipenko, Andrey"
+268,standard,2315,"Esipenko, Andrey"
+279,standard,2286,"Esipenko, Andrey"
+288,standard,2273,"Esipenko, Andrey"
+295,standard,2271,"Esipenko, Andrey"
+303,standard,2306,"Esipenko, Andrey"
+312,standard,2350,"Esipenko, Andrey"
+321,standard,2355,"Esipenko, Andrey"
+341,standard,2403,"Esipenko, Andrey"
+358,standard,2384,"Esipenko, Andrey"
+367,standard,2395,"Esipenko, Andrey"
+378,standard,2412,"Esipenko, Andrey"
+387,standard,2429,"Esipenko, Andrey"
+396,standard,2445,"Esipenko, Andrey"
+405,standard,2463,"Esipenko, Andrey"
+414,standard,2471,"Esipenko, Andrey"
+423,standard,2477,"Esipenko, Andrey"
+440,standard,2490,"Esipenko, Andrey"
+449,standard,2490,"Esipenko, Andrey"
+469,standard,2483,"Esipenko, Andrey"
+478,standard,2492,"Esipenko, Andrey"
+487,standard,2497,"Esipenko, Andrey"
+496,standard,2502,"Esipenko, Andrey"
+505,standard,2492,"Esipenko, Andrey"
+521,standard,2509,"Esipenko, Andrey"
+528,standard,2504,"Esipenko, Andrey"
+539,standard,2523,"Esipenko, Andrey"
+555,standard,2540,"Esipenko, Andrey"
+575,standard,2551,"Esipenko, Andrey"
+584,standard,2564,"Esipenko, Andrey"
+588,standard,2571,"Esipenko, Andrey"
+598,standard,2581,"Esipenko, Andrey"
+618,standard,2587,"Esipenko, Andrey"
+627,standard,2599,"Esipenko, Andrey"
+632,standard,2597,"Esipenko, Andrey"
+641,standard,2589,"Esipenko, Andrey"
+650,standard,2593,"Esipenko, Andrey"
+670,standard,2609,"Esipenko, Andrey"
+681,standard,2593,"Esipenko, Andrey"
+694,standard,2584,"Esipenko, Andrey"
+707,standard,2603,"Esipenko, Andrey"
+727,standard,2616,"Esipenko, Andrey"
+736,standard,2620,"Esipenko, Andrey"
+753,standard,2611,"Esipenko, Andrey"
+762,standard,2621,"Esipenko, Andrey"
+782,standard,2625,"Esipenko, Andrey"
+795,standard,2624,"Esipenko, Andrey"
+810,standard,2636,"Esipenko, Andrey"
+817,standard,2642,"Esipenko, Andrey"
+822,standard,2654,"Esipenko, Andrey"
+840,standard,2672,"Esipenko, Andrey"
+844,standard,2682,"Esipenko, Andrey"
+853,standard,2683,"Esipenko, Andrey"
+861,standard,2686,"Esipenko, Andrey"
+871,standard,2677,"Esipenko, Andrey"
+884,standard,2701,"Esipenko, Andrey"
+891,standard,2716,"Esipenko, Andrey"
+899,standard,2720,"Esipenko, Andrey"
+905,standard,2720,"Esipenko, Andrey"
+922,standard,2713,"Esipenko, Andrey"
+940,standard,2714,"Esipenko, Andrey"
+959,standard,2723,"Esipenko, Andrey"
+965,standard,2709,"Esipenko, Andrey"
+983,standard,2705,"Esipenko, Andrey"
+1002,standard,2682,"Esipenko, Andrey"
+1009,standard,2692,"Esipenko, Andrey"
+1019,standard,2678,"Esipenko, Andrey"
+1030,standard,2668,"Esipenko, Andrey"
+16,standard,1909,"Yakubboev, Nodirbek"
+21,standard,1895,"Yakubboev, Nodirbek"
+26,standard,1852,"Yakubboev, Nodirbek"
+34,standard,1896,"Yakubboev, Nodirbek"
+43,standard,1909,"Yakubboev, Nodirbek"
+52,standard,1965,"Yakubboev, Nodirbek"
+60,standard,1996,"Yakubboev, Nodirbek"
+73,standard,2005,"Yakubboev, Nodirbek"
+83,standard,1987,"Yakubboev, Nodirbek"
+92,standard,1978,"Yakubboev, Nodirbek"
+100,standard,2004,"Yakubboev, Nodirbek"
+109,standard,2056,"Yakubboev, Nodirbek"
+117,standard,2036,"Yakubboev, Nodirbek"
+125,standard,2062,"Yakubboev, Nodirbek"
+136,standard,2075,"Yakubboev, Nodirbek"
+151,standard,2131,"Yakubboev, Nodirbek"
+162,standard,2132,"Yakubboev, Nodirbek"
+180,standard,2217,"Yakubboev, Nodirbek"
+187,standard,2207,"Yakubboev, Nodirbek"
+206,standard,2193,"Yakubboev, Nodirbek"
+214,standard,2144,"Yakubboev, Nodirbek"
+224,standard,2274,"Yakubboev, Nodirbek"
+233,standard,2273,"Yakubboev, Nodirbek"
+245,standard,2296,"Yakubboev, Nodirbek"
+263,standard,2342,"Yakubboev, Nodirbek"
+271,standard,2333,"Yakubboev, Nodirbek"
+280,standard,2349,"Yakubboev, Nodirbek"
+291,standard,2375,"Yakubboev, Nodirbek"
+300,standard,2417,"Yakubboev, Nodirbek"
+318,standard,2422,"Yakubboev, Nodirbek"
+327,standard,2431,"Yakubboev, Nodirbek"
+332,standard,2435,"Yakubboev, Nodirbek"
+343,standard,2432,"Yakubboev, Nodirbek"
+352,standard,2427,"Yakubboev, Nodirbek"
+369,standard,2440,"Yakubboev, Nodirbek"
+387,standard,2437,"Yakubboev, Nodirbek"
+398,standard,2433,"Yakubboev, Nodirbek"
+407,standard,2437,"Yakubboev, Nodirbek"
+416,standard,2448,"Yakubboev, Nodirbek"
+424,standard,2462,"Yakubboev, Nodirbek"
+433,standard,2482,"Yakubboev, Nodirbek"
+442,standard,2493,"Yakubboev, Nodirbek"
+463,standard,2512,"Yakubboev, Nodirbek"
+488,standard,2521,"Yakubboev, Nodirbek"
+499,standard,2522,"Yakubboev, Nodirbek"
+509,standard,2549,"Yakubboev, Nodirbek"
+529,standard,2556,"Yakubboev, Nodirbek"
+547,standard,2569,"Yakubboev, Nodirbek"
+565,standard,2577,"Yakubboev, Nodirbek"
+583,standard,2600,"Yakubboev, Nodirbek"
+592,standard,2587,"Yakubboev, Nodirbek"
+601,standard,2575,"Yakubboev, Nodirbek"
+613,standard,2574,"Yakubboev, Nodirbek"
+622,standard,2598,"Yakubboev, Nodirbek"
+631,standard,2603,"Yakubboev, Nodirbek"
+640,standard,2592,"Yakubboev, Nodirbek"
+650,standard,2597,"Yakubboev, Nodirbek"
+669,standard,2591,"Yakubboev, Nodirbek"
+677,standard,2605,"Yakubboev, Nodirbek"
+698,standard,2598,"Yakubboev, Nodirbek"
+711,standard,2604,"Yakubboev, Nodirbek"
+720,standard,2621,"Yakubboev, Nodirbek"
+741,standard,2630,"Yakubboev, Nodirbek"
+750,standard,2620,"Yakubboev, Nodirbek"
+770,standard,2656,"Yakubboev, Nodirbek"
+780,standard,2663,"Yakubboev, Nodirbek"
